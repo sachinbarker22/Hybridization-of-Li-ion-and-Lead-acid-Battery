@@ -28,7 +28,3 @@ This project focuses on building a **hybrid battery model** combining **Li-ion**
 - The hybrid model performs better under dynamic load conditions.
 - Significant improvements in backup and life cycle observed.
 
-## 📸 Screenshots
-*Include Simulink models, scopes, and battery output graphs here.*
-
-## 📁 File Structure
