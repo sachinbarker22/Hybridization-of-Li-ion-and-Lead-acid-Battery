@@ -3,10 +3,10 @@
 ## 🔋 Project Title
 **Hybridization of Lithium-Ion and Lead-Acid Batteries**
 
-## 📌 Overview
+## Overview
 This project focuses on building a **hybrid battery model** combining **Li-ion** and **Lead-Acid** batteries using MATLAB Simulink. The objective is to enhance energy efficiency and system reliability by leveraging the advantages of both battery types.
 
-## 🧠 Objectives
+## Objectives
 - Simulate and compare Li-ion, Lead-Acid, and NiMH battery behaviors.
 - Analyze State of Charge (SOC) and voltage characteristics.
 - Design a hybrid model to improve overall performance.
